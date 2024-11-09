@@ -1,7 +1,7 @@
 # Space Dodger Game with NEAT AI
 
 This is a **space dodger** game implemented using **Pygame** for the game mechanics and **NEAT** (NeuroEvolution of Augmenting Topologies) for evolving AI agents that control the spaceship. The objective of the game is for AI-controlled spaceships to navigate falling obstacles and avoid collisions, while the neural networks controlling the spaceships evolve over multiple generations.
-
+**You may need to change the address of the images in the main file**
 ### Technologies Used
 
 1. **Pygame**:  
